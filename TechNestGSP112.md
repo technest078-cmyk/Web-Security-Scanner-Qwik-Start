@@ -9,10 +9,15 @@
 
 2.Copy & run this command:
 
+```bash
+export REGION=
 ```
-curl -Lo TechNest1157.sh https://raw.githubusercontent.com/technest078-cmyk/Implementing-Security-in-Dataplex/main/TechNest1157.sh  
-chmod +x TechNest1157.sh  
+
+```
+curl -LO https://raw.githubusercontent.com/technest078-cmyk/Implementing-Security-in-Dataplex/main/TechNest1157.sh && \
+chmod +x TechNest1157.sh && \
 ./TechNest1157.sh
+
 
 ```
 
