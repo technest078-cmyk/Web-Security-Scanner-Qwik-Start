@@ -11,7 +11,6 @@
 
 ```bash
 export REGION=
-```
 
 ```
 curl -LO https://raw.githubusercontent.com/technest078-cmyk/Implementing-Security-in-Dataplex/main/TechNest1157.sh && \
