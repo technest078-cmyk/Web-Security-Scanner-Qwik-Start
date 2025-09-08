@@ -12,7 +12,7 @@
 ```bash
 export REGION=
 
-```
+``` bash
 curl -LO https://raw.githubusercontent.com/technest078-cmyk/Implementing-Security-in-Dataplex/main/TechNest1157.sh && \
 chmod +x TechNest1157.sh && \
 ./TechNest1157.sh
