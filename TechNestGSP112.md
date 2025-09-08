@@ -1,4 +1,4 @@
-###  🎯Lab Link: [Implementing Security in Dataplex - GSP1157]([https://www.cloudskillsboost.google/focuses/67213?parent=catalog](https://www.cloudskillsboost.google/games/6463/labs/40621)
+###  🎯Lab Link: [Implementing Security in Dataplex - GSP1157](https://www.cloudskillsboost.google/games/6463/labs/40621)
 
 
 ### 🔒Lab Solution :
