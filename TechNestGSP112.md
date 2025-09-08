@@ -14,11 +14,9 @@ export REGION=
 ``` 
 
 ``` bash
-curl -LO https://raw.githubusercontent.com/technest078-cmyk/Web-Security-Scanner-Qwik-Start
-/main/TechNestGSP112.sh && \
+curl -LO https://raw.githubusercontent.com/technest078-cmyk/Web-Security-Scanner-Qwik-Start/main/TechNestGSP112.sh && \
 chmod +x TechNestGSP112.sh && \
 ./TechNestGSP112.sh
-
 
 ```
 
