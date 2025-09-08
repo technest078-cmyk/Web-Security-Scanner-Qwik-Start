@@ -1,4 +1,4 @@
-###  🎯Lab Link: [Implementing Security in Dataplex - GSP1157](https://www.cloudskillsboost.google/games/6463/labs/40621)
+###  🎯Lab Link: [Web Security Scanner: Qwik Start](https://www.cloudskillsboost.google/games/6463/labs/40621)
 
 
 ### 🔒Lab Solution :
@@ -14,9 +14,9 @@ export REGION=
 ``` 
 
 ``` bash
-curl -LO https://raw.githubusercontent.com/technest078-cmyk/Implementing-Security-in-Dataplex/main/TechNest1157.sh && \
-chmod +x TechNest1157.sh && \
-./TechNest1157.sh
+curl -LO https://raw.githubusercontent.com/technest078-cmyk/Implementing-Security-in-Dataplex/main/TechNest112.sh && \
+chmod +x TechNest112.sh && \
+./TechNest112.sh
 
 
 ```
